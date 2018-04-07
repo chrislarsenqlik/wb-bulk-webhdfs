@@ -1,0 +1,9 @@
+{
+	"name" : "Writeback",
+	"description" : "Writeback Extension - Sense Server",
+	"icon" : "table",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "table",
+	"author": "Chris Larsen, Qlik"
+}
